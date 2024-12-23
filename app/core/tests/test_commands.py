@@ -24,4 +24,3 @@ class CommandTests(SimpleTestCase):
         self.assertEqual(patched_check.call_count, 3)
         patched_check.assert_called_with(databases=['default'])
 
-
