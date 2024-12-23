@@ -1,8 +1,7 @@
 """ 
 calculater functions
 """
-def add(x,y):
-   # add x,y     
+def add(x,y):    
     return x+y
 def subtract(x,y):
-    return y-x
+    return y - x
